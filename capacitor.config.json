@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.resume",
+  "appName": "Resume Builder",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Resume Builder",
+  "short_name": "ResuMatch",
+  "description": "Create a resume and get tailored internship/job suggestions.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#06b6d4",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
